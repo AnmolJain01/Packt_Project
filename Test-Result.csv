@@ -1,0 +1,91 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1616320828802,1996,PacktpubFreeLearningRequest,200,OK,Thread Group 1-1,text,true,,61084,264,1,1,https://www.packtpub.com/free-learning,273,0,213
+1616320828802,273,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-1,,true,,527,130,1,1,https://packtpub.com/free-learning,273,0,213
+1616320829076,1722,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-1,text,true,,60557,134,1,1,https://www.packtpub.com/free-learning,1273,0,243
+1616320830802,2107,PacktpubFreeLearningRequest,200,OK,Thread Group 1-2,text,true,,61102,264,2,2,https://www.packtpub.com/free-learning,372,0,291
+1616320830802,372,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-2,,true,,527,130,2,2,https://packtpub.com/free-learning,372,0,291
+1616320831174,1735,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-2,text,true,,60575,134,2,2,https://www.packtpub.com/free-learning,1291,0,245
+1616320832803,1988,PacktpubFreeLearningRequest,200,OK,Thread Group 1-3,text,true,,61081,264,1,1,https://www.packtpub.com/free-learning,325,0,259
+1616320832803,325,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-3,,true,,527,130,1,1,https://packtpub.com/free-learning,325,0,259
+1616320833129,1662,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-3,text,true,,60554,134,1,1,https://www.packtpub.com/free-learning,1326,0,250
+1616320834800,2149,PacktpubFreeLearningRequest,200,OK,Thread Group 1-4,text,true,,61089,264,2,2,https://www.packtpub.com/free-learning,367,0,294
+1616320834800,367,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-4,,true,,527,130,2,2,https://packtpub.com/free-learning,367,0,294
+1616320835168,1781,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-4,text,true,,60562,134,2,2,https://www.packtpub.com/free-learning,1246,0,264
+1616320836802,1857,PacktpubFreeLearningRequest,200,OK,Thread Group 1-5,text,true,,61075,264,1,1,https://www.packtpub.com/free-learning,311,0,246
+1616320836802,311,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-5,,true,,527,130,1,1,https://packtpub.com/free-learning,311,0,246
+1616320837114,1545,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-5,text,true,,60548,134,1,1,https://www.packtpub.com/free-learning,1193,0,240
+1616320838803,2493,PacktpubFreeLearningRequest,200,OK,Thread Group 1-6,text,true,,61075,264,2,2,https://www.packtpub.com/free-learning,441,0,360
+1616320838803,441,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-6,,true,,527,130,2,2,https://packtpub.com/free-learning,441,0,360
+1616320839246,2050,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-6,text,true,,60548,134,2,2,https://www.packtpub.com/free-learning,1463,0,334
+1616320840801,1602,PacktpubFreeLearningRequest,200,OK,Thread Group 1-7,text,true,,61075,264,1,1,https://www.packtpub.com/free-learning,500,0,436
+1616320840801,500,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-7,,true,,527,130,1,1,https://packtpub.com/free-learning,500,0,436
+1616320841301,1102,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-7,text,true,,60548,134,1,1,https://www.packtpub.com/free-learning,722,0,228
+1616320842802,2009,PacktpubFreeLearningRequest,200,OK,Thread Group 1-8,text,true,,61116,264,2,2,https://www.packtpub.com/free-learning,377,0,299
+1616320842802,377,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-8,,true,,527,130,2,2,https://packtpub.com/free-learning,377,0,299
+1616320843180,1631,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-8,text,true,,60589,134,2,2,https://www.packtpub.com/free-learning,1243,0,236
+1616320844802,1915,PacktpubFreeLearningRequest,200,OK,Thread Group 1-9,text,true,,61075,264,1,1,https://www.packtpub.com/free-learning,360,0,300
+1616320844802,360,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-9,,true,,527,130,1,1,https://packtpub.com/free-learning,360,0,300
+1616320845163,1554,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-9,text,true,,60548,134,1,1,https://www.packtpub.com/free-learning,1170,0,222
+1616320846801,1975,PacktpubFreeLearningRequest,200,OK,Thread Group 1-10,text,true,,61075,264,1,1,https://www.packtpub.com/free-learning,386,0,299
+1616320846801,386,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-10,,true,,527,130,1,1,https://packtpub.com/free-learning,386,0,299
+1616320847188,1588,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-10,text,true,,60548,134,1,1,https://www.packtpub.com/free-learning,1205,0,266
+1616320848802,2079,PacktpubFreeLearningRequest,200,OK,Thread Group 1-11,text,true,,61075,264,2,2,https://www.packtpub.com/free-learning,532,0,476
+1616320848802,532,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-11,,true,,527,130,2,2,https://packtpub.com/free-learning,532,0,476
+1616320849334,1547,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-11,text,true,,60548,134,2,2,https://www.packtpub.com/free-learning,1152,0,212
+1616320850800,2370,PacktpubFreeLearningRequest,200,OK,Thread Group 1-12,text,true,,61077,264,2,2,https://www.packtpub.com/free-learning,667,0,603
+1616320850800,667,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-12,,true,,527,130,2,2,https://packtpub.com/free-learning,667,0,603
+1616320851468,1702,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-12,text,true,,60550,134,2,2,https://www.packtpub.com/free-learning,1281,0,268
+1616320852801,2172,PacktpubFreeLearningRequest,200,OK,Thread Group 1-13,text,true,,61075,264,2,2,https://www.packtpub.com/free-learning,375,0,310
+1616320852801,375,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-13,,true,,527,130,2,2,https://packtpub.com/free-learning,375,0,310
+1616320853177,1796,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-13,text,true,,60548,134,2,2,https://www.packtpub.com/free-learning,1354,0,261
+1616320854802,2445,PacktpubFreeLearningRequest,200,OK,Thread Group 1-14,text,true,,61075,264,2,2,https://www.packtpub.com/free-learning,665,0,599
+1616320854802,665,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-14,,true,,527,130,2,2,https://packtpub.com/free-learning,665,0,599
+1616320855467,1780,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-14,text,true,,60548,134,2,2,https://www.packtpub.com/free-learning,1318,0,249
+1616320856801,2050,PacktpubFreeLearningRequest,200,OK,Thread Group 1-15,text,true,,61089,264,2,2,https://www.packtpub.com/free-learning,404,0,342
+1616320856801,404,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-15,,true,,527,130,2,2,https://packtpub.com/free-learning,404,0,342
+1616320857205,1646,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-15,text,true,,60562,134,2,2,https://www.packtpub.com/free-learning,1202,0,252
+1616320858801,2094,PacktpubFreeLearningRequest,200,OK,Thread Group 1-16,text,true,,61077,264,2,2,https://www.packtpub.com/free-learning,405,0,323
+1616320858801,405,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-16,,true,,527,130,2,2,https://packtpub.com/free-learning,405,0,323
+1616320859209,1686,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-16,text,true,,60550,134,2,2,https://www.packtpub.com/free-learning,1247,0,264
+1616320860800,2022,PacktpubFreeLearningRequest,200,OK,Thread Group 1-17,text,true,,61082,264,2,2,https://www.packtpub.com/free-learning,366,0,298
+1616320860800,366,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-17,,true,,527,130,2,2,https://packtpub.com/free-learning,366,0,298
+1616320861167,1655,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-17,text,true,,60555,134,2,2,https://www.packtpub.com/free-learning,1223,0,166
+1616320862801,1952,PacktpubFreeLearningRequest,200,OK,Thread Group 1-18,text,true,,61083,264,1,1,https://www.packtpub.com/free-learning,390,0,320
+1616320862801,390,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-18,,true,,527,130,1,1,https://packtpub.com/free-learning,390,0,320
+1616320863192,1561,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-18,text,true,,60556,134,1,1,https://www.packtpub.com/free-learning,1253,0,252
+1616320864800,2195,PacktpubFreeLearningRequest,200,OK,Thread Group 1-19,text,true,,61075,264,2,2,https://www.packtpub.com/free-learning,394,0,329
+1616320864800,394,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-19,,true,,527,130,2,2,https://packtpub.com/free-learning,394,0,329
+1616320865195,1800,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-19,text,true,,60548,134,2,2,https://www.packtpub.com/free-learning,1324,0,255
+1616320866801,2061,PacktpubFreeLearningRequest,200,OK,Thread Group 1-20,text,true,,61075,264,2,2,https://www.packtpub.com/free-learning,333,0,262
+1616320866801,333,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-20,,true,,527,130,2,2,https://packtpub.com/free-learning,333,0,262
+1616320867134,1728,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-20,text,true,,60548,134,2,2,https://www.packtpub.com/free-learning,1319,0,269
+1616320868801,2269,PacktpubFreeLearningRequest,200,OK,Thread Group 1-21,text,true,,61075,264,2,2,https://www.packtpub.com/free-learning,353,0,291
+1616320868801,353,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-21,,true,,527,130,2,2,https://packtpub.com/free-learning,353,0,291
+1616320869155,1915,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-21,text,true,,60548,134,2,2,https://www.packtpub.com/free-learning,1543,0,258
+1616320870802,2637,PacktpubFreeLearningRequest,200,OK,Thread Group 1-22,text,true,,61075,264,2,2,https://www.packtpub.com/free-learning,714,0,341
+1616320870802,714,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-22,,true,,527,130,2,2,https://packtpub.com/free-learning,714,0,341
+1616320871517,1922,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-22,text,true,,60548,134,2,2,https://www.packtpub.com/free-learning,1546,0,537
+1616320872801,2046,PacktpubFreeLearningRequest,200,OK,Thread Group 1-23,text,true,,61084,264,2,2,https://www.packtpub.com/free-learning,408,0,337
+1616320872801,408,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-23,,true,,527,130,2,2,https://packtpub.com/free-learning,408,0,337
+1616320873209,1638,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-23,text,true,,60557,134,2,2,https://www.packtpub.com/free-learning,1176,0,225
+1616320874801,2178,PacktpubFreeLearningRequest,200,OK,Thread Group 1-24,text,true,,61075,264,2,2,https://www.packtpub.com/free-learning,363,0,294
+1616320874801,363,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-24,,true,,527,130,2,2,https://packtpub.com/free-learning,363,0,294
+1616320875165,1814,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-24,text,true,,60548,134,2,2,https://www.packtpub.com/free-learning,1268,0,229
+1616320876801,2350,PacktpubFreeLearningRequest,200,OK,Thread Group 1-25,text,true,,61084,264,2,2,https://www.packtpub.com/free-learning,434,0,359
+1616320876801,434,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-25,,true,,527,130,2,2,https://packtpub.com/free-learning,434,0,359
+1616320877236,1915,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-25,text,true,,60557,134,2,2,https://www.packtpub.com/free-learning,1460,0,282
+1616320878802,2070,PacktpubFreeLearningRequest,200,OK,Thread Group 1-26,text,true,,61075,264,2,2,https://www.packtpub.com/free-learning,350,0,283
+1616320878802,350,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-26,,true,,527,130,2,2,https://packtpub.com/free-learning,350,0,283
+1616320879153,1719,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-26,text,true,,60548,134,2,2,https://www.packtpub.com/free-learning,1281,0,259
+1616320880800,2180,PacktpubFreeLearningRequest,200,OK,Thread Group 1-27,text,true,,61075,264,2,2,https://www.packtpub.com/free-learning,371,0,296
+1616320880800,371,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-27,,true,,527,130,2,2,https://packtpub.com/free-learning,371,0,296
+1616320881172,1808,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-27,text,true,,60548,134,2,2,https://www.packtpub.com/free-learning,1310,0,247
+1616320882802,1971,PacktpubFreeLearningRequest,200,OK,Thread Group 1-28,text,true,,61081,264,1,1,https://www.packtpub.com/free-learning,346,0,280
+1616320882802,346,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-28,,true,,527,130,1,1,https://packtpub.com/free-learning,346,0,280
+1616320883149,1624,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-28,text,true,,60554,134,1,1,https://www.packtpub.com/free-learning,1177,0,209
+1616320884801,2098,PacktpubFreeLearningRequest,200,OK,Thread Group 1-29,text,true,,61080,264,2,2,https://www.packtpub.com/free-learning,337,0,261
+1616320884801,337,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-29,,true,,527,130,2,2,https://packtpub.com/free-learning,337,0,261
+1616320885139,1760,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-29,text,true,,60553,134,2,2,https://www.packtpub.com/free-learning,1315,0,268
+1616320886801,2034,PacktpubFreeLearningRequest,200,OK,Thread Group 1-30,text,true,,61075,264,1,1,https://www.packtpub.com/free-learning,311,0,251
+1616320886801,311,PacktpubFreeLearningRequest-0,301,Moved Permanently,Thread Group 1-30,,true,,527,130,1,1,https://packtpub.com/free-learning,311,0,251
+1616320887113,1722,PacktpubFreeLearningRequest-1,200,OK,Thread Group 1-30,text,true,,60548,134,1,1,https://www.packtpub.com/free-learning,1296,0,206
